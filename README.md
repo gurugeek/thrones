@@ -1,5 +1,5 @@
 # thrones
 # TODO 
-## CSS fixes 
-## add new in-game events
-## add pics on event 
+CSS fixes new layout
+ add new in-game events
+ add pics on event 
